@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nudity-bot",
+  "private_key_id": "bad2929c2ae506948b4f4126f9d0ce6fa73ec9d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVNTdcB6anQhZO\n2/9yaST6mYN8UPq7CvHoh/bH8DLTliMbDrFVtDNZDCmgt5EN/k3RQtZNNyuFGwcW\n2sd9OlN9mvDymhteJEgTaJfEjyGO7eYjV5Qt6xW+w6Ko9okFh7Xv84rWQLSJm2IU\n/Vf4weQ1V98cJbHGWYImDaCY+pzOCMEbPmuLkSPv7YkZi2Ps79htVNLJB45pvB4H\nub3Yg+25PEI/vnkVWwNIWBMMvaF8vETfW1eSNK0ido8IwmUTTguHbWCt3KEtCKPO\noVZy2IGWTfVLc3LSn3PsSlmelcZDNb6KkKaUM4TC3NTu0IRjQNQUStqi9pGDFD6M\nuSeaMua7AgMBAAECggEAGgSP+GGQozmL2ly7a/1Lv28LXhjNuBSKV7t70INN2Icq\nSot89X3zhCrZS50LDP+bBG3ZE/wnCeu17kKNdIkxFhNZ0ukebNsVlpS9bIWg7T23\nx1lRIlddRHXAPEk1iGC6wYjhSOsFfQNisTgHS7pxfFb4SYmKC6/xk243SmPOzc+H\nktotOJGAl10CwpMk7lgzRvO9qcrGhwB1GOQwG7JRmvEcO9dSUSziKSqwGgBcYFDk\n+e0f4MJv0UR7AWDjOlT+Ly+ds61LZbkN2ymFt8p2jyTE9sDh5h1uEWAVnmlWi6PI\nRw/LoOP+Wn0oWWLN+jZCtDthk3l9WZatx00SH7q5qQKBgQD2kkG46lRuGNzukuNU\ngyJ1dA8JTX6XH2du63+lcFv8S0bacpMnYMzuien65PcyMQYt9TUm5Z4IZbF9nXQI\nI6B99ZtmLLJrhe8/ACmPD86nIOWGAmQJNIAdNAVrwAGTJFXZopjo4Zd3ZNkYB4O1\nHP8ZIelbayUyggYL4Pf8T9w2uQKBgQDdXFtt1R5DgTHbqeL1W4WJSOm04hClangl\n30lpggW/KlzS/Q3tzVs47fhBx0ALb1Rq6iVdOEUgqFZ/K4N68EdwyXGp/XGfG+/w\nNAHr/wyoti+IkpN7IJGTm+tluyUso6hX7E2BdwTgjcXuiJwJ7qddXaTFqSGT6gX5\nwf2Gv9YPEwKBgQCG+xgZh8aCov/HZwgmCsfBbrCQkijbyChSc39kbPceTYNTMOfX\n5ckqSLubSt78ThQo8pSPX6I8zJb2wkxz7DT+34abz5o4/JA1d/xIQgoKOhsMWqCy\n3VfJJOJW0zzJdVm+E6IL0vudM8sYuXxjmKUZ+BOMpUIuvTlcJWL8cCeImQKBgEhp\n0SMB58+PcP75+VvoX6vEZWed2HI0fS9udvaD6VtbAVioHalgV2otNtxV0RasicIb\n7LMtGDgRuZIKaw2JkuVLkNpaJZQ2MGy0prhMDBkY2D3mLUbHJbhS9lOmQAf1VbnF\nfKlQhRDscAaTO/Bn2OpLGv7qUCiyEthcZJJzKRRvAoGBAIsylnCAouzCZyUcYqiH\nUDL9df9w2pR8NAngqrwlRZfvknXqci8ZeqKsKfmLGUq32A4EIvG3NqOPpURDeQVg\nCo7Td5PUTR7UPR+Cb2Lrz8Xx9pScJuoNmTPDsD4TD4oNnhV5S6zjErE6Kir66SBC\n/gT/CH4WX+NRnbMMpbXOn9tR\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-i9gb8k6r2ylcxe5dmdgg4islwl@nudity-bot.iam.gserviceaccount.com",
+  "client_id": "113548855801123391450",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-i9gb8k6r2ylcxe5dmdgg4islwl%40nudity-bot.iam.gserviceaccount.com"
+}
